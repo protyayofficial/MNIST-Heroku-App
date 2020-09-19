@@ -1,0 +1,1 @@
+web: source setup.sh && python MNIST_Kaggle_v6.py

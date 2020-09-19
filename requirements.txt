@@ -1,0 +1,10 @@
+Keras==2.3.1
+tensorflow==2.0.0
+scikit-learn==0.21.2
+scipy==1.2.1
+seaborn==0.9.0
+pandas
+numpy
+h5py
+gradio
+setuptools==41.0.0
